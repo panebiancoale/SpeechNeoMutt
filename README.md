@@ -1,5 +1,5 @@
 # SpeechNeoMutt
-Interfaccia vocale integrata con il client testuale NeoMutt
+Progetto per Tesi Triennale Informatica
 
 **In questo progetto si è lavorato per sviluppare un interfaccia vocale da integrare poi con il client NeoMutt.**
 
