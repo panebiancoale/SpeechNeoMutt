@@ -1,5 +1,6 @@
 ****** INFO PER IL MODELLO VOSK UTILIZZATO ******
 
 -- Il modello Vosk utilizzato è troppo pesante per Git.
--- Si richiede il download da: https://alphacephei.com/vosk/models
+-- Si richiede il download da: https://alphacephei.com/vosk/models 
+-- Selezionare il modello Italian 
 -- La cartella di Vosk va poi spostata sotto /model/
