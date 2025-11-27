@@ -9,7 +9,7 @@ Il software è stato sviluppato e testato su Linux e per poter  funzionare corre
 2. Installare le librerie python mancanti (se presenti)
 3. Installare NeoMutt e aver configurato il file .neomuttrc
 4. Installare mbsync e avere configurato il file .mbsyncrc (questo passaggio è necessario se si vuole avere la cartella locale sincronizzata con il server di posta elettronico)
-5. Leggere il file in /model/ per ottenere il modello Vosk.
+5. Leggere il file in /model/ per il modello Vosk.
 
 **Esempio file .neomuttrc (contiene gli elementi richiesti dal software)**
 
