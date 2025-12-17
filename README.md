@@ -5,7 +5,7 @@ Progetto per Tesi Triennale Informatica
 
 Il software è stato sviluppato e testato su Linux e per poter  funzionare correttamente bisogna:
 
-1. Configurare ambiente virtuale python Miniconda/Conda 
+1. Configurare ambiente virtuale python Miniconda/Conda attraverso il file environment.yml (conda env create -f environment.yml)
 2. Installare le librerie python mancanti (se presenti)
 3. Installare NeoMutt e aver configurato il file .neomuttrc
 4. Installare mbsync e avere configurato il file .mbsyncrc (questo passaggio è necessario se si vuole avere la cartella locale sincronizzata con il server di posta elettronico)
